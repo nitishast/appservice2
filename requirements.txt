@@ -1,1 +1,13 @@
 streamlit
+google-generativeai
+python-dotenv
+PyPDF2
+chromadb
+langchain
+langchain_google_genai
+faiss-cpu
+langchain-community
+groq
+langchain-groq
+pypdf
+streamlit_option_menu
